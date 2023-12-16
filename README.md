@@ -1,6 +1,8 @@
 <h1 align="center">Hi, I'm Ronak Jain 🧛‍♂️</h1>
 <h3 align="center">A passionate full stack software developer</h3>
 
+<img src="https://private-user-images.githubusercontent.com/19783675/259906130-5d3c8800-fb00-45d0-b9dd-7eb82f057baf.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDI3MDgxNjUsIm5iZiI6MTcwMjcwNzg2NSwicGF0aCI6Ii8xOTc4MzY3NS8yNTk5MDYxMzAtNWQzYzg4MDAtZmIwMC00NWQwLWI5ZGQtN2ViODJmMDU3YmFmLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzEyMTYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMjE2VDA2MjQyNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWU3NGI5YjE3ZGJmMDc3ODJjMTVmMGNmNDYwMjM3YmIxYzYyN2NjMjk4ZDhlNmZkYTIwNzAzYTFjOTIyNzkyYTAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.Mroebu8D2XOkh3kliI7o75hiuGumFENSwzx4QnWIUSQ"/>
+
 <hr/>
 <h3 align="left">Connect with me:</h3>
 
